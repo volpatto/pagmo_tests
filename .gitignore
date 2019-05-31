@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Notebooks files
+.ipynb_checkpoints/
+
+# VI/Vim
+*.swp

@@ -1,0 +1,22 @@
+name: pagmo-env
+channels:
+  - https://conda.anaconda.org/conda-forge/
+dependencies:
+  # All cpp stack dependencies
+  - cling 
+  - xeus 
+  - xeus-cling 
+  - pagmo
+  - pygmo 
+  
+  # Additional python resources
+  - notebook 
+  - ipywidgets 
+  - widgetsnbextension 
+  - jupyter_contrib_nbextensions
+  - jupyter_conda 
+  - python 
+  - scipy 
+  - numpy 
+  - pandas
+  
