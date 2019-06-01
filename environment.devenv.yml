@@ -26,5 +26,4 @@ dependencies:
   - pandas
 
 environment:
-  ENV_INCLUDE:
-    - {{ HOME }}/miniconda3/envs/{{ ENV_NAME }}/include
+  ENV_INCLUDE: {{ HOME }}/miniconda3/envs/{{ ENV_NAME }}/include
