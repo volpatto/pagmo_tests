@@ -36,3 +36,8 @@
 
 # VI/Vim
 *.swp
+
+# IDE files
+.idea/
+cmake-build-debug/
+
